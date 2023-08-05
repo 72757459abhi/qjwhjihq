@@ -1,0 +1,47 @@
+.profile {
+ 
+    margin: 5rem 0rem 0rem 0rem;
+    /* box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2); */
+    /* width: 40rem; */
+    /* border-radius: 8px; */
+    padding: 3rem;
+    /* text-align: center; */
+    background-color: #f4f0fa;
+  
+  }
+
+  table{
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  table th, table td{
+    padding: 3px 20px;
+  }
+
+  table tr td{
+    color: #13244f !important;
+  }
+
+  
+table tbody tr{
+  border-top: 2px solid #13244f;
+  border-bottom: 2px solid #13244f;
+  height: 70px;
+}
+table tbody tr:first-child{
+  border-top: none;
+}
+table thead tr{
+  background-color: #13244f;
+  color: white;
+  text-transform: uppercase;
+  height: 70px;
+
+}
+.headingText{
+  display: inline;
+  padding: 3rem 0rem 0rem;
+  border-bottom: 2px solid black;
+}
+  
